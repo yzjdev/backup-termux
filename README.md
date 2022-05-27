@@ -32,19 +32,19 @@ git config --global user.email "邮箱"
 git config --global user.name "名称"
 ```
 
-仓库配置
-new repo
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:yzjdev/test.git
-git push -u origin main
+仓库配置  
+new repo  
+git init  
+git add README.md  
+git commit -m "first commit"  
+git branch -M main  
+git remote add origin git@github.com:yzjdev/test.git  
+git push -u origin main  
 
-exists repo
-git remote add origin git@github.com:yzjdev/test.git
-git branch -M main
-git push -u origin main
+exists repo  
+git remote add origin git@github.com:yzjdev/test.git  
+git branch -M main  
+git push -u origin main  
 
 - 安装ohmyzsh
 ```
